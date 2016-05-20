@@ -31,6 +31,9 @@ Her er noen typer kategorier:
 * **crypto**
 
 
+### Mini demo
+
+
 ### Online wargames
 * [OverTheWire](http://overthewire.org/wargames/)
 
